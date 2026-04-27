@@ -142,6 +142,6 @@ O autor não se responsabiliza por uso indevido.
 
 ## Autor
 
-**[Seu Nome]**
+**André Santana**
 Pós-graduando em Ethical Hacking e Cibersegurança
-[LinkedIn](https://linkedin.com/in/seuperfil) · [GitHub](https://github.com/seuusuario)
+[LinkedIn](https://www.linkedin.com/in/andrevsantana/) · [GitHub](https://github.com/vSantanaa)
