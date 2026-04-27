@@ -123,9 +123,8 @@ recon-toolkit/
 ## Relação com o Fluxo de Pentest
 
 ```
-[Recon Toolkit]  →  [Port Scanner]  →  Exploração
-  Fase de             Fase de
-  Reconhecimento      Descoberta
+[Recon Toolkit]  →  [Port Scanner]  →  [Mini C2 Framework]
+  Reconhecimento      Descoberta         Pós-exploração
 ```
 
 Este projeto cobre a **fase de reconhecimento** do framework PTES (Penetration Testing Execution Standard), coletando informações públicas antes de qualquer interação direta com o alvo.
